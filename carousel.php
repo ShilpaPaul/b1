@@ -28,9 +28,9 @@
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a class="dropdown-item" href="https://weneedfun.com/wp-content/uploads/2016/01/Flower-Petals-5.jpg">FLOWER</a></li>
-                  <li><a class="dropdown-item" href="http://localhost/bootstrap/carousel.html">Carousel</a></li>
+                  <li><a class="dropdown-item" href="https://shilpapaul.github.io/b1/carousel.html">Carousel</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="http://localhost/bootstrap/accordian.html">Accordian</a></li>
+                  <li><a class="dropdown-item" href="https://shilpapaul.github.io/b1/accordian.html">Accordian</a></li>
                 </ul>
               </li>
               <li class="nav-item">
