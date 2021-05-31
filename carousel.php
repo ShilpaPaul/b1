@@ -10,7 +10,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffa64d;">
         <div class="container-fluid">
-          <a class="navbar-brand" href="">CHOICE</a>
+          <a class="navbar-brand" href="">FLORET</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -20,7 +20,7 @@
                 <a class="nav-link active" aria-current="page" href="http://localhost/bootstrap/navigation.html?#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="http://localhost/bootstrap/">LOGIN/REGISTER</a>
+                <a class="nav-link" href="http://localhost/bootstrap/">Login/Register</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -63,7 +63,7 @@
                   </div>
             </div>
         </div>
-        <center><h1>CAROUSEL WITH CONTROL</h1></center>
+        <center><h1>FLORET FLOWER SHOP</h1></center>
         <div class="row">
             <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
